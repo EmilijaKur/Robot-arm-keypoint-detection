@@ -1,0 +1,21 @@
+flip_idx:
+- 0
+- 1
+- 2
+- 3
+- 4
+kpt_shape:
+- 5
+- 3
+names:
+- robotarm
+nc: 1
+roboflow:
+  license: CC BY 4.0
+  project: robot-arm-pose-sz7o3-etkuy
+  url: https://universe.roboflow.com/emilija/robot-arm-pose-sz7o3-etkuy/dataset/1
+  version: 1
+  workspace: emilija
+test: ../test/images
+train: ../train/images
+val: ../valid/images

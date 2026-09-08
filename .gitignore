@@ -1,0 +1,7 @@
+.env
+runs/
+*.pt
+!yolov8n-pose.pt
+datasets/
+__pycache__/
+.venv/
