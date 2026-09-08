@@ -36,7 +36,10 @@ Pose estimation model trained with YOLOv8n-pose to detect joints of a robot arm.
 | mAP50-95 | 0.791 |
 
 ![Training results](docs/results.png)
-![Sample prediction](docs/val_batch0_pred.jpg)
+
+Sample predictions:
+
+![Sample prediction](docs/pred1.jpg) ![Sample prediction](docs/pred2.jpg) ![Sample prediction](docs/pred3.jpg)
 
 ## Note
 
