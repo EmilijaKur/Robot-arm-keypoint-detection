@@ -39,7 +39,7 @@ Pose estimation model trained with YOLOv8n-pose to detect joints of a robot arm.
 
 Sample predictions:
 
-<img src="docs/pred1.jpg" width="250"> <img src="docs/pred2.jpg" width="250"> <img src="docs/pred3.jpg" width="250">
+<img src="docs/pred1.png" width="250"> <img src="docs/pred2.png" width="250"> <img src="docs/pred3.png" width="250">
 
 ## Note
 
